@@ -36389,7 +36389,6 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-group-1 {
   min-height: 93px;
   width: 570px;
-  height: auto;
   margin: 0 auto;
 }
 
@@ -36409,7 +36408,6 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 1199px) {
   .u-footer .u-group-1 {
     width: 470px;
-    height: auto;
   }
 
   .u-footer .u-container-layout-1 {
