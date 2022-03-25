@@ -97,14 +97,6 @@
   padding: 15px;
 }
 
-.u-section-1 .embed-responsive-3 {
-  position: absolute;
-  width: 178%;
-  left: -39%;
-  height: 178%;
-  top: -39%;
-}
-
 @media (max-width: 1199px) {
   .u-section-1 .u-text-1 {
     margin-left: calc(((100% - 940px) / 2) + 425px);
