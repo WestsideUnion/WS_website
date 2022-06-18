@@ -760,6 +760,11 @@
   margin: 20px 0 0;
 }
 
+.u-section-3 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
 @media (max-width: 1199px) {
   .u-section-3 .u-sheet-1 {
     min-height: 943px;
@@ -1818,6 +1823,7 @@
 
 .u-section-9 .u-icon-5 {
   font-size: 1.35em;
+  margin-top: -10px;
   padding: 15px;
 }
 
@@ -1829,11 +1835,6 @@
 }
 
 .u-section-9 .u-icon-7 {
-  font-size: 1.5em;
-  padding: 15px;
-}
-
-.u-section-9 .u-icon-8 {
   font-size: 1.5em;
   padding: 15px;
 }
